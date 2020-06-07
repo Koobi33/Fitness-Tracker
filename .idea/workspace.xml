@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6363c97-f6c6-4521-82d6-43f76d6b0bdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/media/1_step.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/2_step.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/3_step.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/4_step.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/example.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/result.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/teached_model.gif" afterDir="false" />
-    </list>
+    <list default="true" id="e6363c97-f6c6-4521-82d6-43f76d6b0bdf" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +24,7 @@
   </component>
   <component name="ProjectId" id="1cztyBeVqhZ4LLQyJnY0CpoA8h4" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/media" />
   </component>
@@ -62,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591543502023</updated>
-      <workItem from="1591543503287" duration="2224000" />
+      <workItem from="1591543503287" duration="2607000" />
     </task>
     <servers />
   </component>
