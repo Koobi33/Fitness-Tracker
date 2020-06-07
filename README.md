@@ -22,7 +22,8 @@ Lets teach our model. (I used [Teachable Machine](https://teachablemachine.withg
 
 Every step will be an own class. We must got photos from every short video, and upload them. 
 
-Result: 
+Result of model: 
+
 ![](./media/teached_model.gif)
 
 ## Result
