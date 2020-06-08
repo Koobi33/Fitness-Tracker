@@ -1,33 +1,34 @@
 # Vision Hackathon project
 
 ## The goal
-To help people complete sport exercises without pro trainer using machine learning.
+To help people complete sport exercises without pro coach using machine learning.
 
 ## Train model
 We need to understand which exercise person do now and level of quality of moves.
 
-On this step I use this video as reference squat.
+On this step this video used as reference squat.
 
 ![](./media/example.gif)
  
-I cut this video into short parts to produce little steps, which will become  classical machine learning problems.
+This video cutted into short parts to produce little steps, which will become  classical machine learning problems.
 
 ![](./media/1_step.gif)
 ![](./media/2_step.gif)
 ![](./media/3_step.gif)
 ![](./media/4_step.gif)
 
-I had 4 steps which must follow one by one from first to last and from last to first. This give us opportunity to count exercises and understand quality of person moves.
-Lets teach our model. (I used [Teachable Machine](https://teachablemachine.withgoogle.com) for this task). 
+Now here 4 steps which must follow one by one from first to last and from last to first. This give opportunity to count exercises and understand quality of person moves.
+Lets teach our model. ([Teachable Machine](https://teachablemachine.withgoogle.com) was used for this task). 
 
-Every step will be an own class. We must got photos from every short video, and upload them. 
+Every step will be an own class. Each video should be divided into frames, and they should be uploaded according to their classes.
+
 
 Result of model: 
 
 ![](./media/teached_model.gif)
 
 ## Result
-Using algorithms and our model we can do all what we want with camera and canvas.
+Using algorithms and a trained model, you can do everything you need with a camera and canvas.
 
 ![](./media/result.gif) 
 
