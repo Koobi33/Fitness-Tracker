@@ -1,4 +1,4 @@
-# Vision Hackathon project
+# Fitness Tracker project
 
 ## The goal
 To help people complete sport exercises without pro coach using machine learning.
